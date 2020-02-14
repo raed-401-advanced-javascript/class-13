@@ -5,7 +5,7 @@
 ### Links and Resources
 
 - [submission PR](https://github.com/raed-401-advanced-javascript/class-13/pull/1)
-- [ci/cd]() (GitHub Actions)
+- [ci/cd](https://github.com/raed-401-advanced-javascript/class-13/pull/1/checks?check_run_id=446892084) (GitHub Actions)
 
 ### Setup
 npm i jest eslint
